@@ -65,12 +65,12 @@ Passos rápidos:
 
 ---
 
-# Portabilidade
+## Portabilidade
 Estes scripts são específicos para SQLite. Se migrar para PostgreSQL ou MySQL, algumas diferenças serão necessárias (ex.: AUTOINCREMENT vs SERIAL, JSONB, datetime functions, UPDATE ... FROM).
 
 ---
 
-# Segurança e ética
+## Segurança e ética
 Não inclua dados pessoais reais em repositórios públicos.
 Remova senhas/credenciais antes de publicar.
 Documente anonimização/mascaramento caso use dados reais para testes.
