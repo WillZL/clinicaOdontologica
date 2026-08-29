@@ -71,6 +71,6 @@ Estes scripts são específicos para SQLite. Se migrar para PostgreSQL ou MySQL,
 ---
 
 ## Segurança e ética
-Não inclua dados pessoais reais em repositórios públicos.
-Remova senhas/credenciais antes de publicar.
-Documente anonimização/mascaramento caso use dados reais para testes.
+- Não inclua dados pessoais reais em repositórios públicos.
+- Remova senhas/credenciais antes de publicar.
+- Documente anonimização/mascaramento caso use dados reais para testes.
